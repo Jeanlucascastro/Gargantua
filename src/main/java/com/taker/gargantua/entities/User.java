@@ -1,4 +1,4 @@
-package entities;
+package com.taker.gargantua.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

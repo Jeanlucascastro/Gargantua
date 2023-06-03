@@ -1,4 +1,4 @@
-package VO;
+package com.taker.gargantua.VO;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
